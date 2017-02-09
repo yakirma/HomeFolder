@@ -1,0 +1,1288 @@
+WARNING: No workbook support. No results will be saved.	
+{
+  dataRoot : "../cifar-100-batches-t7/"
+  experimentName : "snapshots/cifar-residual-experiment1"
+  device : 1
+  Nsize : 3
+  runNum : 0
+  batchSize : 128
+  loadFrom : "./model.model"
+  trainLoopNum : 220
+  saveTo : ""
+  zeroCodeFix : 0
+  codeLearnRate : 0
+  iterSize : 1
+}
+Dataset size: 	50000	
+Loading CNN model from ./model.model	
+Done	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0	
+Accuracy = 	0.988	
+Accuracy top5 = 	0.9426	
+Handcrafted heirarchical Precision = 	0.29987999999986	
+Visual heirarchical Precision = 	0.30309333333319	
+Imagenet heirarchical Precision = 	0.29901999999986	
+neg samples percent = 	0	
+Evaluating...	
+Valid-Accuracy- = 	0.9838	
+Valid-Accuracy-top5 = 	0.9364	
+Valid-Handcrafted-heirarchical-Precision = 	0.30040666666652	
+Valid-Visual-heirarchical-Precision = 	0.30422666666652	
+Valid-Imagenet-heirarchical-Precision = 	0.30005333333319	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.17782275378704	
+Accuracy = 	0.4218	
+Accuracy top5 = 	0.1734	
+Handcrafted heirarchical Precision = 	0.54935999999963	
+Visual heirarchical Precision = 	0.59142666666626	
+Imagenet heirarchical Precision = 	0.55877333333296	
+neg samples percent = 	0.31658	
+Evaluating...	
+Valid-Accuracy- = 	0.4326	
+Valid-Accuracy-top5 = 	0.1792	
+Valid-Handcrafted-heirarchical-Precision = 	0.54631999999963	
+Valid-Visual-heirarchical-Precision = 	0.5880599999996	
+Valid-Imagenet-heirarchical-Precision = 	0.55599333333296	
+
+
+----- Epoch 1 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16756665706635	
+Accuracy = 	0.3842	
+Accuracy top5 = 	0.1438	
+Handcrafted heirarchical Precision = 	0.56603999999962	
+Visual heirarchical Precision = 	0.6227733333329	
+Imagenet heirarchical Precision = 	0.5832199999996	
+neg samples percent = 	0.56944	
+Evaluating...	
+Valid-Accuracy- = 	0.3934	
+Valid-Accuracy-top5 = 	0.1536	
+Valid-Handcrafted-heirarchical-Precision = 	0.56341999999962	
+Valid-Visual-heirarchical-Precision = 	0.62098666666623	
+Valid-Imagenet-heirarchical-Precision = 	0.58176666666627	
+
+
+----- Epoch 2 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.18030077219009	
+Accuracy = 	0.3522	
+Accuracy top5 = 	0.121	
+Handcrafted heirarchical Precision = 	0.55453333333296	
+Visual heirarchical Precision = 	0.60196666666625	
+Imagenet heirarchical Precision = 	0.57218666666628	
+neg samples percent = 	0.63394	
+Evaluating...	
+Valid-Accuracy- = 	0.3572	
+Valid-Accuracy-top5 = 	0.1204	
+Valid-Handcrafted-heirarchical-Precision = 	0.55321333333296	
+Valid-Visual-heirarchical-Precision = 	0.60041999999959	
+Valid-Imagenet-heirarchical-Precision = 	0.56986666666628	
+
+
+----- Epoch 3 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16385175287724	
+Accuracy = 	0.3416	
+Accuracy top5 = 	0.1152	
+Handcrafted heirarchical Precision = 	0.55536666666629	
+Visual heirarchical Precision = 	0.59976666666625	
+Imagenet heirarchical Precision = 	0.57229333333294	
+neg samples percent = 	0.68256	
+Evaluating...	
+Valid-Accuracy- = 	0.3522	
+Valid-Accuracy-top5 = 	0.1148	
+Valid-Handcrafted-heirarchical-Precision = 	0.55405333333296	
+Valid-Visual-heirarchical-Precision = 	0.59832666666625	
+Valid-Imagenet-heirarchical-Precision = 	0.57024666666628	
+
+
+----- Epoch 4 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.18040101230145	
+Accuracy = 	0.3396	
+Accuracy top5 = 	0.1224	
+Handcrafted heirarchical Precision = 	0.55424666666629	
+Visual heirarchical Precision = 	0.59647999999959	
+Imagenet heirarchical Precision = 	0.57092666666628	
+neg samples percent = 	0.70666	
+Evaluating...	
+Valid-Accuracy- = 	0.3502	
+Valid-Accuracy-top5 = 	0.1228	
+Valid-Handcrafted-heirarchical-Precision = 	0.55351999999963	
+Valid-Visual-heirarchical-Precision = 	0.59548666666626	
+Valid-Imagenet-heirarchical-Precision = 	0.56928666666628	
+
+
+----- Epoch 5 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.17790086567402	
+Accuracy = 	0.3402	
+Accuracy top5 = 	0.1214	
+Handcrafted heirarchical Precision = 	0.55393333333296	
+Visual heirarchical Precision = 	0.60069333333292	
+Imagenet heirarchical Precision = 	0.57307333333294	
+neg samples percent = 	0.71766	
+Evaluating...	
+Valid-Accuracy- = 	0.3446	
+Valid-Accuracy-top5 = 	0.1256	
+Valid-Handcrafted-heirarchical-Precision = 	0.5523466666663	
+Valid-Visual-heirarchical-Precision = 	0.60111999999958	
+Valid-Imagenet-heirarchical-Precision = 	0.57155333333295	
+
+
+----- Epoch 6 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.17398743331432	
+Accuracy = 	0.3324	
+Accuracy top5 = 	0.122	
+Handcrafted heirarchical Precision = 	0.56335333333295	
+Visual heirarchical Precision = 	0.59988666666625	
+Imagenet heirarchical Precision = 	0.57957333333294	
+neg samples percent = 	0.73084	
+Evaluating...	
+Valid-Accuracy- = 	0.3398	
+Valid-Accuracy-top5 = 	0.123	
+Valid-Handcrafted-heirarchical-Precision = 	0.56289333333295	
+Valid-Visual-heirarchical-Precision = 	0.59955333333292	
+Valid-Imagenet-heirarchical-Precision = 	0.57736666666627	
+
+
+----- Epoch 7 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.17142224311829	
+Accuracy = 	0.3326	
+Accuracy top5 = 	0.1232	
+Handcrafted heirarchical Precision = 	0.57075999999961	
+Visual heirarchical Precision = 	0.61489999999957	
+Imagenet heirarchical Precision = 	0.58753333333293	
+neg samples percent = 	0.74652	
+Evaluating...	
+Valid-Accuracy- = 	0.3394	
+Valid-Accuracy-top5 = 	0.1256	
+Valid-Handcrafted-heirarchical-Precision = 	0.57029999999961	
+Valid-Visual-heirarchical-Precision = 	0.61595999999957	
+Valid-Imagenet-heirarchical-Precision = 	0.58719333333293	
+
+
+----- Epoch 8 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16680383682251	
+Accuracy = 	0.3318	
+Accuracy top5 = 	0.1248	
+Handcrafted heirarchical Precision = 	0.57833999999961	
+Visual heirarchical Precision = 	0.6209133333329	
+Imagenet heirarchical Precision = 	0.59595333333292	
+neg samples percent = 	0.7608	
+Evaluating...	
+Valid-Accuracy- = 	0.3398	
+Valid-Accuracy-top5 = 	0.1274	
+Valid-Handcrafted-heirarchical-Precision = 	0.57739999999961	
+Valid-Visual-heirarchical-Precision = 	0.61956666666623	
+Valid-Imagenet-heirarchical-Precision = 	0.59393333333292	
+
+
+----- Epoch 9 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.1661472171545	
+Accuracy = 	0.3412	
+Accuracy top5 = 	0.131	
+Handcrafted heirarchical Precision = 	0.57661333333294	
+Visual heirarchical Precision = 	0.6215333333329	
+Imagenet heirarchical Precision = 	0.59752666666625	
+neg samples percent = 	0.76658	
+Evaluating...	
+Valid-Accuracy- = 	0.3378	
+Valid-Accuracy-top5 = 	0.1314	
+Valid-Handcrafted-heirarchical-Precision = 	0.57605333333294	
+Valid-Visual-heirarchical-Precision = 	0.62171999999957	
+Valid-Imagenet-heirarchical-Precision = 	0.59629999999959	
+
+
+----- Epoch 10 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16029004752636	
+Accuracy = 	0.331	
+Accuracy top5 = 	0.124	
+Handcrafted heirarchical Precision = 	0.57754666666627	
+Visual heirarchical Precision = 	0.6227733333329	
+Imagenet heirarchical Precision = 	0.59781333333292	
+neg samples percent = 	0.77316	
+Evaluating...	
+Valid-Accuracy- = 	0.3336	
+Valid-Accuracy-top5 = 	0.124	
+Valid-Handcrafted-heirarchical-Precision = 	0.57709333333294	
+Valid-Visual-heirarchical-Precision = 	0.62230666666623	
+Valid-Imagenet-heirarchical-Precision = 	0.59585333333292	
+
+
+----- Epoch 11 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16925470530987	
+Accuracy = 	0.3208	
+Accuracy top5 = 	0.1226	
+Handcrafted heirarchical Precision = 	0.57918666666627	
+Visual heirarchical Precision = 	0.62539999999956	
+Imagenet heirarchical Precision = 	0.59978666666625	
+neg samples percent = 	0.77406	
+Evaluating...	
+Valid-Accuracy- = 	0.3304	
+Valid-Accuracy-top5 = 	0.1216	
+Valid-Handcrafted-heirarchical-Precision = 	0.57759333333294	
+Valid-Visual-heirarchical-Precision = 	0.6245333333329	
+Valid-Imagenet-heirarchical-Precision = 	0.59825333333292	
+
+
+----- Epoch 12 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16712647676468	
+Accuracy = 	0.3226	
+Accuracy top5 = 	0.1212	
+Handcrafted heirarchical Precision = 	0.57947333333294	
+Visual heirarchical Precision = 	0.62616666666623	
+Imagenet heirarchical Precision = 	0.60121999999958	
+neg samples percent = 	0.77608	
+Evaluating...	
+Valid-Accuracy- = 	0.3208	
+Valid-Accuracy-top5 = 	0.1214	
+Valid-Handcrafted-heirarchical-Precision = 	0.57692666666627	
+Valid-Visual-heirarchical-Precision = 	0.6244533333329	
+Valid-Imagenet-heirarchical-Precision = 	0.59823999999959	
+
+
+----- Epoch 13 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15998899936676	
+Accuracy = 	0.3188	
+Accuracy top5 = 	0.1214	
+Handcrafted heirarchical Precision = 	0.58114666666627	
+Visual heirarchical Precision = 	0.62682666666623	
+Imagenet heirarchical Precision = 	0.60231999999958	
+neg samples percent = 	0.7723	
+Evaluating...	
+Valid-Accuracy- = 	0.3256	
+Valid-Accuracy-top5 = 	0.1206	
+Valid-Handcrafted-heirarchical-Precision = 	0.5791199999996	
+Valid-Visual-heirarchical-Precision = 	0.6252333333329	
+Valid-Imagenet-heirarchical-Precision = 	0.59965333333292	
+
+
+----- Epoch 14 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.17035527527332	
+Accuracy = 	0.3222	
+Accuracy top5 = 	0.1252	
+Handcrafted heirarchical Precision = 	0.58269333333293	
+Visual heirarchical Precision = 	0.62980666666623	
+Imagenet heirarchical Precision = 	0.60454666666625	
+neg samples percent = 	0.77762	
+Evaluating...	
+Valid-Accuracy- = 	0.3238	
+Valid-Accuracy-top5 = 	0.1198	
+Valid-Handcrafted-heirarchical-Precision = 	0.58045333333294	
+Valid-Visual-heirarchical-Precision = 	0.62784666666623	
+Valid-Imagenet-heirarchical-Precision = 	0.60163999999958	
+
+
+----- Epoch 15 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16766865551472	
+Accuracy = 	0.3258	
+Accuracy top5 = 	0.123	
+Handcrafted heirarchical Precision = 	0.58351333333293	
+Visual heirarchical Precision = 	0.62827333333289	
+Imagenet heirarchical Precision = 	0.60421333333292	
+neg samples percent = 	0.7764	
+Evaluating...	
+Valid-Accuracy- = 	0.3268	
+Valid-Accuracy-top5 = 	0.1216	
+Valid-Handcrafted-heirarchical-Precision = 	0.58167333333294	
+Valid-Visual-heirarchical-Precision = 	0.62772666666623	
+Valid-Imagenet-heirarchical-Precision = 	0.60140666666625	
+
+
+----- Epoch 16 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16332159936428	
+Accuracy = 	0.322	
+Accuracy top5 = 	0.1238	
+Handcrafted heirarchical Precision = 	0.5857799999996	
+Visual heirarchical Precision = 	0.63069999999956	
+Imagenet heirarchical Precision = 	0.60689333333291	
+neg samples percent = 	0.77632	
+Evaluating...	
+Valid-Accuracy- = 	0.3238	
+Valid-Accuracy-top5 = 	0.1258	
+Valid-Handcrafted-heirarchical-Precision = 	0.5827999999996	
+Valid-Visual-heirarchical-Precision = 	0.62889999999956	
+Valid-Imagenet-heirarchical-Precision = 	0.60324666666625	
+
+
+----- Epoch 17 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16767646372318	
+Accuracy = 	0.3214	
+Accuracy top5 = 	0.125	
+Handcrafted heirarchical Precision = 	0.58399333333293	
+Visual heirarchical Precision = 	0.62990666666623	
+Imagenet heirarchical Precision = 	0.60531999999958	
+neg samples percent = 	0.77836	
+Evaluating...	
+Valid-Accuracy- = 	0.325	
+Valid-Accuracy-top5 = 	0.127	
+Valid-Handcrafted-heirarchical-Precision = 	0.5823199999996	
+Valid-Visual-heirarchical-Precision = 	0.62809999999956	
+Valid-Imagenet-heirarchical-Precision = 	0.60186666666625	
+
+
+----- Epoch 18 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16271026432514	
+Accuracy = 	0.326	
+Accuracy top5 = 	0.1246	
+Handcrafted heirarchical Precision = 	0.5832799999996	
+Visual heirarchical Precision = 	0.63151999999956	
+Imagenet heirarchical Precision = 	0.60477999999958	
+neg samples percent = 	0.77714	
+Evaluating...	
+Valid-Accuracy- = 	0.3274	
+Valid-Accuracy-top5 = 	0.127	
+Valid-Handcrafted-heirarchical-Precision = 	0.58145333333294	
+Valid-Visual-heirarchical-Precision = 	0.63033999999956	
+Valid-Imagenet-heirarchical-Precision = 	0.60197999999958	
+
+
+----- Epoch 19 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16278609633446	
+Accuracy = 	0.3204	
+Accuracy top5 = 	0.1272	
+Handcrafted heirarchical Precision = 	0.58492666666627	
+Visual heirarchical Precision = 	0.63356666666622	
+Imagenet heirarchical Precision = 	0.60743333333291	
+neg samples percent = 	0.77952	
+Evaluating...	
+Valid-Accuracy- = 	0.323	
+Valid-Accuracy-top5 = 	0.1252	
+Valid-Handcrafted-heirarchical-Precision = 	0.58329333333293	
+Valid-Visual-heirarchical-Precision = 	0.63281333333289	
+Valid-Imagenet-heirarchical-Precision = 	0.60441333333292	
+
+
+----- Epoch 20 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16268388926983	
+Accuracy = 	0.322	
+Accuracy top5 = 	0.125	
+Handcrafted heirarchical Precision = 	0.5862399999996	
+Visual heirarchical Precision = 	0.63163333333289	
+Imagenet heirarchical Precision = 	0.60675333333291	
+neg samples percent = 	0.77846	
+Evaluating...	
+Valid-Accuracy- = 	0.3248	
+Valid-Accuracy-top5 = 	0.1272	
+Valid-Handcrafted-heirarchical-Precision = 	0.58496666666627	
+Valid-Visual-heirarchical-Precision = 	0.63004666666623	
+Valid-Imagenet-heirarchical-Precision = 	0.60405333333292	
+
+
+----- Epoch 21 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15660561621189	
+Accuracy = 	0.3202	
+Accuracy top5 = 	0.1306	
+Handcrafted heirarchical Precision = 	0.58530666666627	
+Visual heirarchical Precision = 	0.63073999999956	
+Imagenet heirarchical Precision = 	0.60458666666625	
+neg samples percent = 	0.77882	
+Evaluating...	
+Valid-Accuracy- = 	0.329	
+Valid-Accuracy-top5 = 	0.132	
+Valid-Handcrafted-heirarchical-Precision = 	0.58418666666627	
+Valid-Visual-heirarchical-Precision = 	0.62946666666623	
+Valid-Imagenet-heirarchical-Precision = 	0.60193333333292	
+
+
+----- Epoch 22 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16186834871769	
+Accuracy = 	0.323	
+Accuracy top5 = 	0.1272	
+Handcrafted heirarchical Precision = 	0.5860999999996	
+Visual heirarchical Precision = 	0.63113999999956	
+Imagenet heirarchical Precision = 	0.60465999999958	
+neg samples percent = 	0.78024	
+Evaluating...	
+Valid-Accuracy- = 	0.327	
+Valid-Accuracy-top5 = 	0.131	
+Valid-Handcrafted-heirarchical-Precision = 	0.58407333333293	
+Valid-Visual-heirarchical-Precision = 	0.62857999999956	
+Valid-Imagenet-heirarchical-Precision = 	0.60096666666625	
+
+
+----- Epoch 23 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15555083751678	
+Accuracy = 	0.3208	
+Accuracy top5 = 	0.1306	
+Handcrafted heirarchical Precision = 	0.58436666666627	
+Visual heirarchical Precision = 	0.63459999999955	
+Imagenet heirarchical Precision = 	0.60651333333291	
+neg samples percent = 	0.7793	
+Evaluating...	
+Valid-Accuracy- = 	0.3248	
+Valid-Accuracy-top5 = 	0.1306	
+Valid-Handcrafted-heirarchical-Precision = 	0.5835799999996	
+Valid-Visual-heirarchical-Precision = 	0.63355999999956	
+Valid-Imagenet-heirarchical-Precision = 	0.60347999999958	
+
+
+----- Epoch 24 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15731281042099	
+Accuracy = 	0.3168	
+Accuracy top5 = 	0.1276	
+Handcrafted heirarchical Precision = 	0.58843333333293	
+Visual heirarchical Precision = 	0.63116666666622	
+Imagenet heirarchical Precision = 	0.60817999999958	
+neg samples percent = 	0.78332	
+Evaluating...	
+Valid-Accuracy- = 	0.3212	
+Valid-Accuracy-top5 = 	0.132	
+Valid-Handcrafted-heirarchical-Precision = 	0.5865999999996	
+Valid-Visual-heirarchical-Precision = 	0.62937333333289	
+Valid-Imagenet-heirarchical-Precision = 	0.60387333333292	
+
+
+----- Epoch 25 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15129977464676	
+Accuracy = 	0.3162	
+Accuracy top5 = 	0.1304	
+Handcrafted heirarchical Precision = 	0.58656666666626	
+Visual heirarchical Precision = 	0.63928666666622	
+Imagenet heirarchical Precision = 	0.61067333333291	
+neg samples percent = 	0.7858	
+Evaluating...	
+Valid-Accuracy- = 	0.3298	
+Valid-Accuracy-top5 = 	0.1338	
+Valid-Handcrafted-heirarchical-Precision = 	0.5833999999996	
+Valid-Visual-heirarchical-Precision = 	0.63713333333289	
+Valid-Imagenet-heirarchical-Precision = 	0.60528666666625	
+
+
+----- Epoch 26 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.16656784713268	
+Accuracy = 	0.323	
+Accuracy top5 = 	0.1312	
+Handcrafted heirarchical Precision = 	0.59025333333293	
+Visual heirarchical Precision = 	0.63757999999955	
+Imagenet heirarchical Precision = 	0.61342666666624	
+neg samples percent = 	0.78444	
+Evaluating...	
+Valid-Accuracy- = 	0.3252	
+Valid-Accuracy-top5 = 	0.135	
+Valid-Handcrafted-heirarchical-Precision = 	0.58661333333293	
+Valid-Visual-heirarchical-Precision = 	0.63402666666622	
+Valid-Imagenet-heirarchical-Precision = 	0.60693333333291	
+
+
+----- Epoch 27 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15878348052502	
+Accuracy = 	0.3172	
+Accuracy top5 = 	0.1308	
+Handcrafted heirarchical Precision = 	0.59097999999959	
+Visual heirarchical Precision = 	0.64086666666622	
+Imagenet heirarchical Precision = 	0.61448666666624	
+neg samples percent = 	0.7853	
+Evaluating...	
+Valid-Accuracy- = 	0.3272	
+Valid-Accuracy-top5 = 	0.1414	
+Valid-Handcrafted-heirarchical-Precision = 	0.58782666666626	
+Valid-Visual-heirarchical-Precision = 	0.63659999999955	
+Valid-Imagenet-heirarchical-Precision = 	0.60837333333291	
+
+
+----- Epoch 28 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15117707848549	
+Accuracy = 	0.3192	
+Accuracy top5 = 	0.1326	
+Handcrafted heirarchical Precision = 	0.58781333333293	
+Visual heirarchical Precision = 	0.64493333333288	
+Imagenet heirarchical Precision = 	0.61334666666624	
+neg samples percent = 	0.78416	
+Evaluating...	
+Valid-Accuracy- = 	0.3272	
+Valid-Accuracy-top5 = 	0.1358	
+Valid-Handcrafted-heirarchical-Precision = 	0.5853199999996	
+Valid-Visual-heirarchical-Precision = 	0.64179999999955	
+Valid-Imagenet-heirarchical-Precision = 	0.60917333333291	
+
+
+----- Epoch 29 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15934936702251	
+Accuracy = 	0.3226	
+Accuracy top5 = 	0.1348	
+Handcrafted heirarchical Precision = 	0.5885799999996	
+Visual heirarchical Precision = 	0.64081999999955	
+Imagenet heirarchical Precision = 	0.61111999999958	
+neg samples percent = 	0.78042	
+Evaluating...	
+Valid-Accuracy- = 	0.3266	
+Valid-Accuracy-top5 = 	0.1378	
+Valid-Handcrafted-heirarchical-Precision = 	0.58712666666626	
+Valid-Visual-heirarchical-Precision = 	0.63976666666622	
+Valid-Imagenet-heirarchical-Precision = 	0.60793333333291	
+
+
+----- Epoch 30 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14781320095062	
+Accuracy = 	0.3238	
+Accuracy top5 = 	0.1346	
+Handcrafted heirarchical Precision = 	0.59182666666626	
+Visual heirarchical Precision = 	0.64161333333288	
+Imagenet heirarchical Precision = 	0.61313999999957	
+neg samples percent = 	0.78514	
+Evaluating...	
+Valid-Accuracy- = 	0.3326	
+Valid-Accuracy-top5 = 	0.146	
+Valid-Handcrafted-heirarchical-Precision = 	0.58898666666626	
+Valid-Visual-heirarchical-Precision = 	0.63889999999955	
+Valid-Imagenet-heirarchical-Precision = 	0.60807999999958	
+
+
+----- Epoch 31 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15462976694107	
+Accuracy = 	0.3232	
+Accuracy top5 = 	0.136	
+Handcrafted heirarchical Precision = 	0.58498666666627	
+Visual heirarchical Precision = 	0.64128666666621	
+Imagenet heirarchical Precision = 	0.60892666666624	
+neg samples percent = 	0.78016	
+Evaluating...	
+Valid-Accuracy- = 	0.3318	
+Valid-Accuracy-top5 = 	0.1402	
+Valid-Handcrafted-heirarchical-Precision = 	0.58367333333293	
+Valid-Visual-heirarchical-Precision = 	0.63933999999955	
+Valid-Imagenet-heirarchical-Precision = 	0.60525333333291	
+
+
+----- Epoch 32 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15511667728424	
+Accuracy = 	0.3234	
+Accuracy top5 = 	0.1408	
+Handcrafted heirarchical Precision = 	0.58757333333293	
+Visual heirarchical Precision = 	0.64823999999954	
+Imagenet heirarchical Precision = 	0.61291999999957	
+neg samples percent = 	0.7816	
+Evaluating...	
+Valid-Accuracy- = 	0.3312	
+Valid-Accuracy-top5 = 	0.1424	
+Valid-Handcrafted-heirarchical-Precision = 	0.5837999999996	
+Valid-Visual-heirarchical-Precision = 	0.64544666666621	
+Valid-Imagenet-heirarchical-Precision = 	0.60753333333291	
+
+
+----- Epoch 33 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14950250089169	
+Accuracy = 	0.3238	
+Accuracy top5 = 	0.14	
+Handcrafted heirarchical Precision = 	0.58933333333293	
+Visual heirarchical Precision = 	0.64532666666621	
+Imagenet heirarchical Precision = 	0.61425999999957	
+neg samples percent = 	0.78396	
+Evaluating...	
+Valid-Accuracy- = 	0.3346	
+Valid-Accuracy-top5 = 	0.1428	
+Valid-Handcrafted-heirarchical-Precision = 	0.58655333333293	
+Valid-Visual-heirarchical-Precision = 	0.64379999999955	
+Valid-Imagenet-heirarchical-Precision = 	0.61128666666624	
+
+
+----- Epoch 34 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15067644417286	
+Accuracy = 	0.3374	
+Accuracy top5 = 	0.1456	
+Handcrafted heirarchical Precision = 	0.5876599999996	
+Visual heirarchical Precision = 	0.64154666666621	
+Imagenet heirarchical Precision = 	0.60905333333291	
+neg samples percent = 	0.78058	
+Evaluating...	
+Valid-Accuracy- = 	0.3414	
+Valid-Accuracy-top5 = 	0.1516	
+Valid-Handcrafted-heirarchical-Precision = 	0.58255333333294	
+Valid-Visual-heirarchical-Precision = 	0.64009333333288	
+Valid-Imagenet-heirarchical-Precision = 	0.60381999999958	
+
+
+----- Epoch 35 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.15363226830959	
+Accuracy = 	0.3376	
+Accuracy top5 = 	0.141	
+Handcrafted heirarchical Precision = 	0.58797333333293	
+Visual heirarchical Precision = 	0.64561999999954	
+Imagenet heirarchical Precision = 	0.61581999999957	
+neg samples percent = 	0.7823	
+Evaluating...	
+Valid-Accuracy- = 	0.3498	
+Valid-Accuracy-top5 = 	0.147	
+Valid-Handcrafted-heirarchical-Precision = 	0.5855999999996	
+Valid-Visual-heirarchical-Precision = 	0.64420666666621	
+Valid-Imagenet-heirarchical-Precision = 	0.61111333333291	
+
+
+----- Epoch 36 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14518517255783	
+Accuracy = 	0.3358	
+Accuracy top5 = 	0.1468	
+Handcrafted heirarchical Precision = 	0.58532666666627	
+Visual heirarchical Precision = 	0.64590666666621	
+Imagenet heirarchical Precision = 	0.61511999999957	
+neg samples percent = 	0.78192	
+Evaluating...	
+Valid-Accuracy- = 	0.3478	
+Valid-Accuracy-top5 = 	0.1536	
+Valid-Handcrafted-heirarchical-Precision = 	0.58162666666627	
+Valid-Visual-heirarchical-Precision = 	0.64123999999955	
+Valid-Imagenet-heirarchical-Precision = 	0.60979333333291	
+
+
+----- Epoch 37 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14589981734753	
+Accuracy = 	0.355	
+Accuracy top5 = 	0.1476	
+Handcrafted heirarchical Precision = 	0.5833399999996	
+Visual heirarchical Precision = 	0.64724666666621	
+Imagenet heirarchical Precision = 	0.61325999999957	
+neg samples percent = 	0.77764	
+Evaluating...	
+Valid-Accuracy- = 	0.3536	
+Valid-Accuracy-top5 = 	0.1496	
+Valid-Handcrafted-heirarchical-Precision = 	0.5824799999996	
+Valid-Visual-heirarchical-Precision = 	0.64702666666621	
+Valid-Imagenet-heirarchical-Precision = 	0.61196666666624	
+
+
+----- Epoch 38 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14278380572796	
+Accuracy = 	0.3466	
+Accuracy top5 = 	0.1592	
+Handcrafted heirarchical Precision = 	0.58013333333294	
+Visual heirarchical Precision = 	0.64734666666621	
+Imagenet heirarchical Precision = 	0.61179333333291	
+neg samples percent = 	0.77966	
+Evaluating...	
+Valid-Accuracy- = 	0.363	
+Valid-Accuracy-top5 = 	0.1606	
+Valid-Handcrafted-heirarchical-Precision = 	0.57821999999961	
+Valid-Visual-heirarchical-Precision = 	0.64727999999954	
+Valid-Imagenet-heirarchical-Precision = 	0.60920666666624	
+
+
+----- Epoch 39 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.13914328813553	
+Accuracy = 	0.3564	
+Accuracy top5 = 	0.1546	
+Handcrafted heirarchical Precision = 	0.57721999999961	
+Visual heirarchical Precision = 	0.64513333333288	
+Imagenet heirarchical Precision = 	0.61560666666624	
+neg samples percent = 	0.77426	
+Evaluating...	
+Valid-Accuracy- = 	0.359	
+Valid-Accuracy-top5 = 	0.1554	
+Valid-Handcrafted-heirarchical-Precision = 	0.57245999999961	
+Valid-Visual-heirarchical-Precision = 	0.64172666666621	
+Valid-Imagenet-heirarchical-Precision = 	0.61131999999958	
+
+
+----- Epoch 40 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14277920126915	
+Accuracy = 	0.3516	
+Accuracy top5 = 	0.1616	
+Handcrafted heirarchical Precision = 	0.57581999999961	
+Visual heirarchical Precision = 	0.64283333333288	
+Imagenet heirarchical Precision = 	0.61265999999957	
+neg samples percent = 	0.77298	
+Evaluating...	
+Valid-Accuracy- = 	0.3626	
+Valid-Accuracy-top5 = 	0.1664	
+Valid-Handcrafted-heirarchical-Precision = 	0.57456666666628	
+Valid-Visual-heirarchical-Precision = 	0.64029333333288	
+Valid-Imagenet-heirarchical-Precision = 	0.61111333333291	
+
+
+----- Epoch 41 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14360344409943	
+Accuracy = 	0.361	
+Accuracy top5 = 	0.1572	
+Handcrafted heirarchical Precision = 	0.57487333333294	
+Visual heirarchical Precision = 	0.63962666666622	
+Imagenet heirarchical Precision = 	0.61543333333291	
+neg samples percent = 	0.77032	
+Evaluating...	
+Valid-Accuracy- = 	0.3728	
+Valid-Accuracy-top5 = 	0.1652	
+Valid-Handcrafted-heirarchical-Precision = 	0.57309999999961	
+Valid-Visual-heirarchical-Precision = 	0.63786666666622	
+Valid-Imagenet-heirarchical-Precision = 	0.61187999999957	
+
+
+----- Epoch 42 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14555618166924	
+Accuracy = 	0.3626	
+Accuracy top5 = 	0.172	
+Handcrafted heirarchical Precision = 	0.56757333333295	
+Visual heirarchical Precision = 	0.63776666666622	
+Imagenet heirarchical Precision = 	0.60374666666625	
+neg samples percent = 	0.76434	
+Evaluating...	
+Valid-Accuracy- = 	0.3694	
+Valid-Accuracy-top5 = 	0.1748	
+Valid-Handcrafted-heirarchical-Precision = 	0.56593999999962	
+Valid-Visual-heirarchical-Precision = 	0.63209999999956	
+Valid-Imagenet-heirarchical-Precision = 	0.59872666666625	
+
+
+----- Epoch 43 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14006453752518	
+Accuracy = 	0.3708	
+Accuracy top5 = 	0.1682	
+Handcrafted heirarchical Precision = 	0.55915999999962	
+Visual heirarchical Precision = 	0.63005999999956	
+Imagenet heirarchical Precision = 	0.60421999999958	
+neg samples percent = 	0.76168	
+Evaluating...	
+Valid-Accuracy- = 	0.3758	
+Valid-Accuracy-top5 = 	0.1676	
+Valid-Handcrafted-heirarchical-Precision = 	0.55677999999963	
+Valid-Visual-heirarchical-Precision = 	0.62884666666623	
+Valid-Imagenet-heirarchical-Precision = 	0.60132666666625	
+
+
+----- Epoch 44 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14026866853237	
+Accuracy = 	0.3796	
+Accuracy top5 = 	0.1784	
+Handcrafted heirarchical Precision = 	0.56399999999962	
+Visual heirarchical Precision = 	0.63683999999955	
+Imagenet heirarchical Precision = 	0.60285333333292	
+neg samples percent = 	0.75934	
+Evaluating...	
+Valid-Accuracy- = 	0.3848	
+Valid-Accuracy-top5 = 	0.1732	
+Valid-Handcrafted-heirarchical-Precision = 	0.56221999999962	
+Valid-Visual-heirarchical-Precision = 	0.63338666666622	
+Valid-Imagenet-heirarchical-Precision = 	0.59971999999959	
+
+
+----- Epoch 45 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14434061944485	
+Accuracy = 	0.3848	
+Accuracy top5 = 	0.1894	
+Handcrafted heirarchical Precision = 	0.5485866666663	
+Visual heirarchical Precision = 	0.63247333333289	
+Imagenet heirarchical Precision = 	0.59480666666626	
+neg samples percent = 	0.75166	
+Evaluating...	
+Valid-Accuracy- = 	0.3866	
+Valid-Accuracy-top5 = 	0.1784	
+Valid-Handcrafted-heirarchical-Precision = 	0.5497666666663	
+Valid-Visual-heirarchical-Precision = 	0.63313333333289	
+Valid-Imagenet-heirarchical-Precision = 	0.59495999999959	
+
+
+----- Epoch 46 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14337903261185	
+Accuracy = 	0.4058	
+Accuracy top5 = 	0.1898	
+Handcrafted heirarchical Precision = 	0.5491466666663	
+Visual heirarchical Precision = 	0.63290666666622	
+Imagenet heirarchical Precision = 	0.59283333333293	
+neg samples percent = 	0.75042	
+Evaluating...	
+Valid-Accuracy- = 	0.4142	
+Valid-Accuracy-top5 = 	0.1838	
+Valid-Handcrafted-heirarchical-Precision = 	0.5472666666663	
+Valid-Visual-heirarchical-Precision = 	0.63005999999956	
+Valid-Imagenet-heirarchical-Precision = 	0.59107999999959	
+
+
+----- Epoch 47 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.13688638806343	
+Accuracy = 	0.3916	
+Accuracy top5 = 	0.1894	
+Handcrafted heirarchical Precision = 	0.54369999999964	
+Visual heirarchical Precision = 	0.62032666666623	
+Imagenet heirarchical Precision = 	0.59027333333293	
+neg samples percent = 	0.73684	
+Evaluating...	
+Valid-Accuracy- = 	0.4042	
+Valid-Accuracy-top5 = 	0.1852	
+Valid-Handcrafted-heirarchical-Precision = 	0.54405333333297	
+Valid-Visual-heirarchical-Precision = 	0.62154666666623	
+Valid-Imagenet-heirarchical-Precision = 	0.58911333333293	
+
+
+----- Epoch 48 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14404784142971	
+Accuracy = 	0.4256	
+Accuracy top5 = 	0.2102	
+Handcrafted heirarchical Precision = 	0.53517333333298	
+Visual heirarchical Precision = 	0.61316666666624	
+Imagenet heirarchical Precision = 	0.5799799999996	
+neg samples percent = 	0.73128	
+Evaluating...	
+Valid-Accuracy- = 	0.44	
+Valid-Accuracy-top5 = 	0.2036	
+Valid-Handcrafted-heirarchical-Precision = 	0.53516666666631	
+Valid-Visual-heirarchical-Precision = 	0.61201999999957	
+Valid-Imagenet-heirarchical-Precision = 	0.57848666666627	
+
+
+----- Epoch 49 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.13617795705795	
+Accuracy = 	0.4306	
+Accuracy top5 = 	0.2114	
+Handcrafted heirarchical Precision = 	0.52025999999966	
+Visual heirarchical Precision = 	0.61219999999957	
+Imagenet heirarchical Precision = 	0.57009999999961	
+neg samples percent = 	0.71534	
+Evaluating...	
+Valid-Accuracy- = 	0.4442	
+Valid-Accuracy-top5 = 	0.2064	
+Valid-Handcrafted-heirarchical-Precision = 	0.51691999999966	
+Valid-Visual-heirarchical-Precision = 	0.61011999999958	
+Valid-Imagenet-heirarchical-Precision = 	0.56846666666628	
+
+
+----- Epoch 50 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.13933597505093	
+Accuracy = 	0.4306	
+Accuracy top5 = 	0.2246	
+Handcrafted heirarchical Precision = 	0.53367999999965	
+Visual heirarchical Precision = 	0.60163333333292	
+Imagenet heirarchical Precision = 	0.56749999999962	
+neg samples percent = 	0.70504	
+Evaluating...	
+Valid-Accuracy- = 	0.44	
+Valid-Accuracy-top5 = 	0.2224	
+Valid-Handcrafted-heirarchical-Precision = 	0.53067333333298	
+Valid-Visual-heirarchical-Precision = 	0.60210666666625	
+Valid-Imagenet-heirarchical-Precision = 	0.56466666666628	
+
+
+----- Epoch 51 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14207409322262	
+Accuracy = 	0.4516	
+Accuracy top5 = 	0.2256	
+Handcrafted heirarchical Precision = 	0.52130666666632	
+Visual heirarchical Precision = 	0.60877999999958	
+Imagenet heirarchical Precision = 	0.56854666666628	
+neg samples percent = 	0.6957	
+Evaluating...	
+Valid-Accuracy- = 	0.4494	
+Valid-Accuracy-top5 = 	0.2204	
+Valid-Handcrafted-heirarchical-Precision = 	0.52563999999965	
+Valid-Visual-heirarchical-Precision = 	0.61253999999957	
+Valid-Imagenet-heirarchical-Precision = 	0.57179333333294	
+
+
+----- Epoch 52 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14600574970245	
+Accuracy = 	0.4504	
+Accuracy top5 = 	0.2348	
+Handcrafted heirarchical Precision = 	0.52677333333299	
+Visual heirarchical Precision = 	0.60887999999958	
+Imagenet heirarchical Precision = 	0.56634666666628	
+neg samples percent = 	0.69038	
+Evaluating...	
+Valid-Accuracy- = 	0.4566	
+Valid-Accuracy-top5 = 	0.2266	
+Valid-Handcrafted-heirarchical-Precision = 	0.52531333333299	
+Valid-Visual-heirarchical-Precision = 	0.60677333333291	
+Valid-Imagenet-heirarchical-Precision = 	0.56386666666629	
+
+
+----- Epoch 53 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14540366828442	
+Accuracy = 	0.4476	
+Accuracy top5 = 	0.2288	
+Handcrafted heirarchical Precision = 	0.53177333333298	
+Visual heirarchical Precision = 	0.61430666666624	
+Imagenet heirarchical Precision = 	0.57151999999961	
+neg samples percent = 	0.68244	
+Evaluating...	
+Valid-Accuracy- = 	0.4652	
+Valid-Accuracy-top5 = 	0.2368	
+Valid-Handcrafted-heirarchical-Precision = 	0.52924666666632	
+Valid-Visual-heirarchical-Precision = 	0.61349999999957	
+Valid-Imagenet-heirarchical-Precision = 	0.56973333333295	
+
+
+----- Epoch 54 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.1414482742548	
+Accuracy = 	0.4776	
+Accuracy top5 = 	0.244	
+Handcrafted heirarchical Precision = 	0.52329999999966	
+Visual heirarchical Precision = 	0.61049333333291	
+Imagenet heirarchical Precision = 	0.56931333333295	
+neg samples percent = 	0.6732	
+Evaluating...	
+Valid-Accuracy- = 	0.4822	
+Valid-Accuracy-top5 = 	0.2448	
+Valid-Handcrafted-heirarchical-Precision = 	0.51839333333299	
+Valid-Visual-heirarchical-Precision = 	0.60812666666625	
+Valid-Imagenet-heirarchical-Precision = 	0.56480666666628	
+
+
+----- Epoch 55 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14946781098843	
+Accuracy = 	0.4802	
+Accuracy top5 = 	0.2616	
+Handcrafted heirarchical Precision = 	0.52725333333299	
+Visual heirarchical Precision = 	0.60875333333291	
+Imagenet heirarchical Precision = 	0.56899333333295	
+neg samples percent = 	0.6602	
+Evaluating...	
+Valid-Accuracy- = 	0.4834	
+Valid-Accuracy-top5 = 	0.2586	
+Valid-Handcrafted-heirarchical-Precision = 	0.52514666666632	
+Valid-Visual-heirarchical-Precision = 	0.60491999999958	
+Valid-Imagenet-heirarchical-Precision = 	0.56740666666628	
+
+
+----- Epoch 56 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.13935486972332	
+Accuracy = 	0.487	
+Accuracy top5 = 	0.2664	
+Handcrafted heirarchical Precision = 	0.52326666666632	
+Visual heirarchical Precision = 	0.59624666666626	
+Imagenet heirarchical Precision = 	0.56273333333295	
+neg samples percent = 	0.65212	
+Evaluating...	
+Valid-Accuracy- = 	0.4984	
+Valid-Accuracy-top5 = 	0.269	
+Valid-Handcrafted-heirarchical-Precision = 	0.52040666666632	
+Valid-Visual-heirarchical-Precision = 	0.59293333333293	
+Valid-Imagenet-heirarchical-Precision = 	0.55967999999962	
+
+
+----- Epoch 57 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.13485153019428	
+Accuracy = 	0.4984	
+Accuracy top5 = 	0.285	
+Handcrafted heirarchical Precision = 	0.51408666666633	
+Visual heirarchical Precision = 	0.59200666666626	
+Imagenet heirarchical Precision = 	0.55921333333296	
+neg samples percent = 	0.64702	
+Evaluating...	
+Valid-Accuracy- = 	0.505	
+Valid-Accuracy-top5 = 	0.2778	
+Valid-Handcrafted-heirarchical-Precision = 	0.51650666666633	
+Valid-Visual-heirarchical-Precision = 	0.59583999999959	
+Valid-Imagenet-heirarchical-Precision = 	0.56243999999962	
+
+
+----- Epoch 58 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.13586916029453	
+Accuracy = 	0.5082	
+Accuracy top5 = 	0.2882	
+Handcrafted heirarchical Precision = 	0.51994666666633	
+Visual heirarchical Precision = 	0.59538666666626	
+Imagenet heirarchical Precision = 	0.56529999999962	
+neg samples percent = 	0.6368	
+Evaluating...	
+Valid-Accuracy- = 	0.524	
+Valid-Accuracy-top5 = 	0.2824	
+Valid-Handcrafted-heirarchical-Precision = 	0.52047333333299	
+Valid-Visual-heirarchical-Precision = 	0.59542666666626	
+Valid-Imagenet-heirarchical-Precision = 	0.56561999999962	
+
+
+----- Epoch 59 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.13839919865131	
+Accuracy = 	0.5136	
+Accuracy top5 = 	0.2956	
+Handcrafted heirarchical Precision = 	0.52485999999965	
+Visual heirarchical Precision = 	0.59740666666625	
+Imagenet heirarchical Precision = 	0.56890666666628	
+neg samples percent = 	0.63682	
+Evaluating...	
+Valid-Accuracy- = 	0.5352	
+Valid-Accuracy-top5 = 	0.2976	
+Valid-Handcrafted-heirarchical-Precision = 	0.52086666666632	
+Valid-Visual-heirarchical-Precision = 	0.59607333333292	
+Valid-Imagenet-heirarchical-Precision = 	0.56744666666628	
+
+
+----- Epoch 60 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14558534324169	
+Accuracy = 	0.5416	
+Accuracy top5 = 	0.3094	
+Handcrafted heirarchical Precision = 	0.52285999999966	
+Visual heirarchical Precision = 	0.59493999999959	
+Imagenet heirarchical Precision = 	0.56731333333295	
+neg samples percent = 	0.63378	
+Evaluating...	
+Valid-Accuracy- = 	0.5508	
+Valid-Accuracy-top5 = 	0.3084	
+Valid-Handcrafted-heirarchical-Precision = 	0.52082666666632	
+Valid-Visual-heirarchical-Precision = 	0.59335999999959	
+Valid-Imagenet-heirarchical-Precision = 	0.56460666666628	
+
+
+----- Epoch 61 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14359939098358	
+Accuracy = 	0.5298	
+Accuracy top5 = 	0.2988	
+Handcrafted heirarchical Precision = 	0.52533333333299	
+Visual heirarchical Precision = 	0.60289999999958	
+Imagenet heirarchical Precision = 	0.57216666666628	
+neg samples percent = 	0.62396	
+Evaluating...	
+Valid-Accuracy- = 	0.5478	
+Valid-Accuracy-top5 = 	0.2934	
+Valid-Handcrafted-heirarchical-Precision = 	0.52387999999966	
+Valid-Visual-heirarchical-Precision = 	0.60356666666625	
+Valid-Imagenet-heirarchical-Precision = 	0.57291333333294	
+
+
+----- Epoch 62 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14337348937988	
+Accuracy = 	0.5562	
+Accuracy top5 = 	0.3404	
+Handcrafted heirarchical Precision = 	0.51881999999966	
+Visual heirarchical Precision = 	0.59035999999959	
+Imagenet heirarchical Precision = 	0.55387999999963	
+neg samples percent = 	0.62034	
+Evaluating...	
+Valid-Accuracy- = 	0.5714	
+Valid-Accuracy-top5 = 	0.3428	
+Valid-Handcrafted-heirarchical-Precision = 	0.51545999999966	
+Valid-Visual-heirarchical-Precision = 	0.58773333333293	
+Valid-Imagenet-heirarchical-Precision = 	0.55221999999963	
+
+
+----- Epoch 63 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.13919810950756	
+Accuracy = 	0.5626	
+Accuracy top5 = 	0.3258	
+Handcrafted heirarchical Precision = 	0.51671333333299	
+Visual heirarchical Precision = 	0.60074666666625	
+Imagenet heirarchical Precision = 	0.57007333333295	
+neg samples percent = 	0.61482	
+Evaluating...	
+Valid-Accuracy- = 	0.5748	
+Valid-Accuracy-top5 = 	0.3252	
+Valid-Handcrafted-heirarchical-Precision = 	0.514133333333	
+Valid-Visual-heirarchical-Precision = 	0.59844666666625	
+Valid-Imagenet-heirarchical-Precision = 	0.56851333333295	
+
+
+----- Epoch 64 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14041931927204	
+Accuracy = 	0.5776	
+Accuracy top5 = 	0.3464	
+Handcrafted heirarchical Precision = 	0.52073999999966	
+Visual heirarchical Precision = 	0.59443999999959	
+Imagenet heirarchical Precision = 	0.56875333333295	
+neg samples percent = 	0.61346	
+Evaluating...	
+Valid-Accuracy- = 	0.5834	
+Valid-Accuracy-top5 = 	0.3442	
+Valid-Handcrafted-heirarchical-Precision = 	0.51993999999966	
+Valid-Visual-heirarchical-Precision = 	0.59354666666626	
+Valid-Imagenet-heirarchical-Precision = 	0.56779999999962	
+
+
+----- Epoch 65 -----	
+saving learned Code Words to 	./CodeWords.dat	
+Evaluating...	
+train loss = 	0	
+hierarchy train loss = 	0.14324329793453	
+Accuracy = 	0.5464	
+Accuracy top5 = 	0.3252	
+Handcrafted heirarchical Precision = 	0.53731999999964	
+Visual heirarchical Precision = 	0.59919333333292	
+Imagenet heirarchical Precision = 	0.57297999999961	
+neg samples percent = 	0.6158	
+Evaluating...	
+Valid-Accuracy- = 	0.5706	
+Valid-Accuracy-top5 = 	0.3368	
+Valid-Handcrafted-heirarchical-Precision = 	0.53129333333298	
+Valid-Visual-heirarchical-Precision = 	0.59456666666626	
+Valid-Imagenet-heirarchical-Precision = 	0.56821999999961	
+
+
+----- Epoch 66 -----	

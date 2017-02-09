@@ -1,0 +1,645 @@
+WARNING: No workbook support. No results will be saved.	
+{
+  dataRoot : "../cifar-100-batches-t7/"
+  experimentName : "snapshots/cifar-residual-experiment1"
+  device : 1
+  Nsize : 3
+  runNum : 0
+  batchSize : 128
+  loadFrom : "./model.model"
+  trainLoopNum : 220
+  saveTo : ""
+  zeroCodeFix : 0
+  codeLearnRate : 0
+  iterSize : 1
+}
+Dataset size: 	50000	
+Loading CNN model from ./model.model	
+Done	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	0	
+acc test error = 	1	
+acc test Had error = 	0.99	
+acc5 test error = 	1	
+acc5 test Had error = 	0.95	
+mse test error = 	0.0026621625293046	
+heirarchical Precision = 	0.2899999999998	
+Visual heirarchical Precision = 	0.33999999999976	
+Imagenet heirarchical Precision = 	0.31999999999977	
+neg samples percent = 	0	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	13.261814117432	
+acc test error = 	1	
+acc test Had error = 	0.8633	
+acc5 test error = 	1	
+acc5 test Had error = 	0.6002	
+mse test error = 	0.0019654375500977	
+heirarchical Precision = 	0.35983999999974	
+Visual heirarchical Precision = 	0.3685966666664	
+Imagenet heirarchical Precision = 	0.35725999999974	
+neg samples percent = 	0.4592	
+
+
+----- Epoch 1 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	11.467539787292	
+acc test error = 	1	
+acc test Had error = 	0.7534	
+acc5 test error = 	1	
+acc5 test Had error = 	0.4415	
+mse test error = 	0.0019605092238635	
+heirarchical Precision = 	0.37418333333306	
+Visual heirarchical Precision = 	0.38474333333305	
+Imagenet heirarchical Precision = 	0.36743333333306	
+neg samples percent = 	0.49098	
+
+
+----- Epoch 2 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	11.91274356842	
+acc test error = 	1	
+acc test Had error = 	0.6703	
+acc5 test error = 	1	
+acc5 test Had error = 	0.3538	
+mse test error = 	0.0019601497333497	
+heirarchical Precision = 	0.38340999999972	
+Visual heirarchical Precision = 	0.39730333333304	
+Imagenet heirarchical Precision = 	0.37858666666639	
+neg samples percent = 	0.49122	
+
+
+----- Epoch 3 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	5.9087100028992	
+acc test error = 	1	
+acc test Had error = 	0.6104	
+acc5 test error = 	1	
+acc5 test Had error = 	0.3045	
+mse test error = 	0.00196293881163	
+heirarchical Precision = 	0.39058999999971	
+Visual heirarchical Precision = 	0.40574333333303	
+Imagenet heirarchical Precision = 	0.38674666666638	
+neg samples percent = 	0.49348	
+
+
+----- Epoch 4 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	4.5403962135315	
+acc test error = 	1	
+acc test Had error = 	0.5688	
+acc5 test error = 	1	
+acc5 test Had error = 	0.2645	
+mse test error = 	0.0019625439308584	
+heirarchical Precision = 	0.3978399999997	
+Visual heirarchical Precision = 	0.41331999999974	
+Imagenet heirarchical Precision = 	0.39412666666637	
+neg samples percent = 	0.49548	
+
+
+----- Epoch 5 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	6.3288712501526	
+acc test error = 	1	
+acc test Had error = 	0.5425	
+acc5 test error = 	1	
+acc5 test Had error = 	0.2418	
+mse test error = 	0.0019582675304264	
+heirarchical Precision = 	0.40304333333303	
+Visual heirarchical Precision = 	0.42085999999984	
+Imagenet heirarchical Precision = 	0.40145333333303	
+neg samples percent = 	0.49398	
+
+
+----- Epoch 6 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	3.9032847881317	
+acc test error = 	1	
+acc test Had error = 	0.5189	
+acc5 test error = 	1	
+acc5 test Had error = 	0.2253	
+mse test error = 	0.0019587979186326	
+heirarchical Precision = 	0.40895666666636	
+Visual heirarchical Precision = 	0.42785666666659	
+Imagenet heirarchical Precision = 	0.40972999999969	
+neg samples percent = 	0.49566	
+
+
+----- Epoch 7 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	4.1881875991821	
+acc test error = 	1	
+acc test Had error = 	0.5011	
+acc5 test error = 	1	
+acc5 test Had error = 	0.2091	
+mse test error = 	0.0019605639390647	
+heirarchical Precision = 	0.41362666666641	
+Visual heirarchical Precision = 	0.43432000000001	
+Imagenet heirarchical Precision = 	0.41475999999976	
+neg samples percent = 	0.49568	
+
+
+----- Epoch 8 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	4.8063387870789	
+acc test error = 	1	
+acc test Had error = 	0.4903	
+acc5 test error = 	1	
+acc5 test Had error = 	0.2027	
+mse test error = 	0.0019625967834145	
+heirarchical Precision = 	0.41817666666647	
+Visual heirarchical Precision = 	0.4390733333334	
+Imagenet heirarchical Precision = 	0.42029999999983	
+neg samples percent = 	0.4968	
+
+
+----- Epoch 9 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	4.9811663627625	
+acc test error = 	1	
+acc test Had error = 	0.4755	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1905	
+mse test error = 	0.0019572242163122	
+heirarchical Precision = 	0.42485999999989	
+Visual heirarchical Precision = 	0.44343000000012	
+Imagenet heirarchical Precision = 	0.42771333333326	
+neg samples percent = 	0.49782	
+
+
+----- Epoch 10 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	3.8487949371338	
+acc test error = 	1	
+acc test Had error = 	0.4691	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1889	
+mse test error = 	0.0019591581076384	
+heirarchical Precision = 	0.42749666666659	
+Visual heirarchical Precision = 	0.44761666666684	
+Imagenet heirarchical Precision = 	0.43358666666667	
+neg samples percent = 	0.49666	
+
+
+----- Epoch 11 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	5.2793965339661	
+acc test error = 	1	
+acc test Had error = 	0.4672	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1844	
+mse test error = 	0.0019589562434703	
+heirarchical Precision = 	0.43364666666667	
+Visual heirarchical Precision = 	0.45226000000024	
+Imagenet heirarchical Precision = 	0.43973666666674	
+neg samples percent = 	0.49766	
+
+
+----- Epoch 12 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	4.4185652732849	
+acc test error = 	1	
+acc test Had error = 	0.4571	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1823	
+mse test error = 	0.0019572388846427	
+heirarchical Precision = 	0.43260666666665	
+Visual heirarchical Precision = 	0.4542733333336	
+Imagenet heirarchical Precision = 	0.43966000000008	
+neg samples percent = 	0.49852	
+
+
+----- Epoch 13 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	2.0099439620972	
+acc test error = 	1	
+acc test Had error = 	0.4578	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1772	
+mse test error = 	0.0019613676704466	
+heirarchical Precision = 	0.43726666666671	
+Visual heirarchical Precision = 	0.4549933333336	
+Imagenet heirarchical Precision = 	0.44315000000012	
+neg samples percent = 	0.4972	
+
+
+----- Epoch 14 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	2.2641694545746	
+acc test error = 	1	
+acc test Had error = 	0.4529	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1754	
+mse test error = 	0.0019602768588811	
+heirarchical Precision = 	0.44261666666678	
+Visual heirarchical Precision = 	0.46098666666701	
+Imagenet heirarchical Precision = 	0.45100666666689	
+neg samples percent = 	0.49888	
+
+
+----- Epoch 15 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	2.9834833145142	
+acc test error = 	1	
+acc test Had error = 	0.4557	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1764	
+mse test error = 	0.0019579972140491	
+heirarchical Precision = 	0.44370000000013	
+Visual heirarchical Precision = 	0.4626633333337	
+Imagenet heirarchical Precision = 	0.44980666666687	
+neg samples percent = 	0.49754	
+
+
+----- Epoch 16 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	4.4139671325684	
+acc test error = 	1	
+acc test Had error = 	0.45	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1708	
+mse test error = 	0.0019559308420867	
+heirarchical Precision = 	0.44773333333351	
+Visual heirarchical Precision = 	0.46571333333374	
+Imagenet heirarchical Precision = 	0.45277333333358	
+neg samples percent = 	0.49876	
+
+
+----- Epoch 17 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	3.2405536174774	
+acc test error = 	1	
+acc test Had error = 	0.4519	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1758	
+mse test error = 	0.0019564449321479	
+heirarchical Precision = 	0.45067666666688	
+Visual heirarchical Precision = 	0.46886666666711	
+Imagenet heirarchical Precision = 	0.45511000000027	
+neg samples percent = 	0.49892	
+
+
+----- Epoch 18 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	4.1564035415649	
+acc test error = 	1	
+acc test Had error = 	0.4625	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1768	
+mse test error = 	0.0019520530477166	
+heirarchical Precision = 	0.44794666666685	
+Visual heirarchical Precision = 	0.46727000000043	
+Imagenet heirarchical Precision = 	0.45264333333357	
+neg samples percent = 	0.49808	
+
+
+----- Epoch 19 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	4.547278881073	
+acc test error = 	1	
+acc test Had error = 	0.4571	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1697	
+mse test error = 	0.001951078302227	
+heirarchical Precision = 	0.459866666667	
+Visual heirarchical Precision = 	0.47875000000057	
+Imagenet heirarchical Precision = 	0.46227000000036	
+neg samples percent = 	0.4991	
+
+
+----- Epoch 20 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	7.5804100036621	
+acc test error = 	1	
+acc test Had error = 	0.4641	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1811	
+mse test error = 	0.0019511665450409	
+heirarchical Precision = 	0.4625633333337	
+Visual heirarchical Precision = 	0.47769333333389	
+Imagenet heirarchical Precision = 	0.46537666666707	
+neg samples percent = 	0.49958	
+
+
+----- Epoch 21 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	5.7958216667175	
+acc test error = 	1	
+acc test Had error = 	0.4647	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1754	
+mse test error = 	0.0019506859825924	
+heirarchical Precision = 	0.47128666666715	
+Visual heirarchical Precision = 	0.48736333333402	
+Imagenet heirarchical Precision = 	0.47575000000054	
+neg samples percent = 	0.49798	
+
+
+----- Epoch 22 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	6.4669609069824	
+acc test error = 	1	
+acc test Had error = 	0.4731	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1811	
+mse test error = 	0.0019501098431647	
+heirarchical Precision = 	0.46863333333378	
+Visual heirarchical Precision = 	0.48178666666728	
+Imagenet heirarchical Precision = 	0.47122000000048	
+neg samples percent = 	0.49928	
+
+
+----- Epoch 23 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	6.1574845314026	
+acc test error = 	1	
+acc test Had error = 	0.485	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1836	
+mse test error = 	0.001956555293873	
+heirarchical Precision = 	0.47224000000049	
+Visual heirarchical Precision = 	0.48731666666735	
+Imagenet heirarchical Precision = 	0.47136000000048	
+neg samples percent = 	0.49842	
+
+
+----- Epoch 24 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	4.2392601966858	
+acc test error = 	1	
+acc test Had error = 	0.4939	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1953	
+mse test error = 	0.0019544211681932	
+heirarchical Precision = 	0.47241666666716	
+Visual heirarchical Precision = 	0.48712333333401	
+Imagenet heirarchical Precision = 	0.47637666666721	
+neg samples percent = 	0.4992	
+
+
+----- Epoch 25 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	5.0808324813843	
+acc test error = 	1	
+acc test Had error = 	0.4974	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1918	
+mse test error = 	0.0019491715356708	
+heirarchical Precision = 	0.47656666666721	
+Visual heirarchical Precision = 	0.48711666666735	
+Imagenet heirarchical Precision = 	0.4759366666672	
+neg samples percent = 	0.49942	
+
+
+----- Epoch 26 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	5.8585720062256	
+acc test error = 	1	
+acc test Had error = 	0.5032	
+acc5 test error = 	1	
+acc5 test Had error = 	0.2039	
+mse test error = 	0.0019490461563691	
+heirarchical Precision = 	0.47291333333383	
+Visual heirarchical Precision = 	0.49606000000079	
+Imagenet heirarchical Precision = 	0.47639666666721	
+neg samples percent = 	0.4983	
+
+
+----- Epoch 27 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	6.0684719085693	
+acc test error = 	1	
+acc test Had error = 	0.5173	
+acc5 test error = 	1	
+acc5 test Had error = 	0.1988	
+mse test error = 	0.0019533121958375	
+heirarchical Precision = 	0.4699633333338	
+Visual heirarchical Precision = 	0.49537333333412	
+Imagenet heirarchical Precision = 	0.47134000000048	
+neg samples percent = 	0.49954	
+
+
+----- Epoch 28 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	5.5860786437988	
+acc test error = 	1	
+acc test Had error = 	0.5262	
+acc5 test error = 	1	
+acc5 test Had error = 	0.2077	
+mse test error = 	0.0019477714085951	
+heirarchical Precision = 	0.47155666666715	
+Visual heirarchical Precision = 	0.49484333333411	
+Imagenet heirarchical Precision = 	0.46600000000041	
+neg samples percent = 	0.49926	
+
+
+----- Epoch 29 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	17.027063369751	
+acc test error = 	1	
+acc test Had error = 	0.574	
+acc5 test error = 	1	
+acc5 test Had error = 	0.2382	
+mse test error = 	0.0019579799845815	
+heirarchical Precision = 	0.46869000000045	
+Visual heirarchical Precision = 	0.48527000000066	
+Imagenet heirarchical Precision = 	0.46054333333368	
+neg samples percent = 	0.49886	
+
+
+----- Epoch 30 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	12.545562744141	
+acc test error = 	1	
+acc test Had error = 	0.5706	
+acc5 test error = 	1	
+acc5 test Had error = 	0.2481	
+mse test error = 	0.0019563010428101	
+heirarchical Precision = 	0.4706933333338	
+Visual heirarchical Precision = 	0.49138000000073	
+Imagenet heirarchical Precision = 	0.47087000000047	
+neg samples percent = 	0.49974	
+
+
+----- Epoch 31 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	1.819260597229	
+acc test error = 	1	
+acc test Had error = 	0.6781	
+acc5 test error = 	1	
+acc5 test Had error = 	0.3077	
+mse test error = 	0.0019435721915215	
+heirarchical Precision = 	0.45133333333356	
+Visual heirarchical Precision = 	0.48170666666728	
+Imagenet heirarchical Precision = 	0.45831333333365	
+neg samples percent = 	0.49788	
+
+
+----- Epoch 32 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	8.884859085083	
+acc test error = 	1	
+acc test Had error = 	0.6404	
+acc5 test error = 	1	
+acc5 test Had error = 	0.2728	
+mse test error = 	0.0019521900685504	
+heirarchical Precision = 	0.460106666667	
+Visual heirarchical Precision = 	0.48583666666733	
+Imagenet heirarchical Precision = 	0.45725666666697	
+neg samples percent = 	0.50018	
+
+
+----- Epoch 33 -----	
+Evaluating...	
+saving learned Code Words to 	./CodeWords.dat	
+trainCodes = 	1	
+log train loss = 	0	
+mse train loss = 	0	
+hierarchy train loss = 	6.3681273460388	
+acc test error = 	1	
+acc test Had error = 	0.6573	
+acc5 test error = 	1	
+acc5 test Had error = 	0.3017	
+mse test error = 	0.0019494404550642	
+heirarchical Precision = 	0.46145333333369	
+Visual heirarchical Precision = 	0.48236000000062	
+Imagenet heirarchical Precision = 	0.45658333333362	
+neg samples percent = 	0.50004	
+
+
+----- Epoch 34 -----	

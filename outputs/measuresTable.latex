@@ -1,0 +1,11 @@
+\hline\hline %inserts double horizontal lines
+Hier & Hand-HP & Hand-FP & Vis-HP & Vis-FP & Img-HP & Img-HP \\ [0.5ex] % inserts table
+\hline % inserts single horizontal line
+
+Base & 47.8\% & 71.5\% & 48.4\% & 71.5\% & 47.8\% & 71.5\% \\
+Hand & 64.78\% & 68.06\% & 55.29\% & 68.06\% & 61.77\% & 68.06\% \\
+Vis & 57.95\% & 67.74\% & 62.62\% & 67.74\% & 60.12\% & 67.74\% \\
+Img & 62.01\% & 68.38\% & 57.07\% & 68.38\% & 66.22\% & 68.38\% \\
+Rnd & 47.69\% & 68.66\% & 43.24\% & 68.66\% & 47.39\% & 68.66\% \\
+
+\hline %inserts single line
